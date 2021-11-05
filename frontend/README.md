@@ -167,7 +167,7 @@ body {
     <p className="text-light">
       App desenvolvido por
       <a href="https://github.com/acenelio" target="_blank" rel="noreferrer"
-        >Nelio Alves</a
+        >Reginaldo Oliveira</a
       >
     </p>
     <p className="text-light">
