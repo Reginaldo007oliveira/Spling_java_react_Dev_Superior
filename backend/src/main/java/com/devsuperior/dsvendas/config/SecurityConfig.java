@@ -1,9 +1,6 @@
 package com.devsuperior.dsvendas.config;
 
-
 import java.util.Arrays;
-
-
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -44,3 +41,4 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		return source;
 	}
 }
+
